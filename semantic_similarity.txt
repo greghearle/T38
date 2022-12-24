@@ -1,1 +1,7 @@
 https://github.com/greghearle/T38
+
+Permalink for watch_next.py
+https://github.com/greghearle/T38/blob/2ed692889d0330b935af5fbb79b541ada63c0c36/watch_next.py
+
+Permalink for semantic.py
+https://github.com/greghearle/T38/blob/2ed692889d0330b935af5fbb79b541ada63c0c36/semantic.py
